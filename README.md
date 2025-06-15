@@ -29,4 +29,7 @@ A simple Flutter app simulating a bakery shopping experience. Built as a practic
 
 ---
 
-**This is a self-built learning project based on common e-commerce UI flows. Inspired by the need to practice Provider and Flutter layouts.**
+## 🙌 Inspiration
+
+This project is a self-built learning exercise inspired by common e-commerce UI flows.  
+Some structure was inspired by [🥑📱 Grocery Shop App • Flutter Tutorial ♥](https://youtu.be/uSljGJGSl6w?si=NHgRGTOvF-_zsfcL) by Mitch Koko on YouTube.
