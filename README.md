@@ -29,4 +29,4 @@ A simple Flutter app simulating a bakery shopping experience. Built as a practic
 
 ---
 
-*This is a self-built learning project based on common e-commerce UI flows. Inspired by the need to practice Provider and Flutter layouts.*
+**This is a self-built learning project based on common e-commerce UI flows. Inspired by the need to practice Provider and Flutter layouts.**
